@@ -4,7 +4,6 @@
 Codelogistic is an educational web platform designed to support students and developers in learning and practicing 7 different programming languages. 
 The platform focuses on providing a clean, accessible interface to explore code logic across multiple environments
 
-Live Demo: codelogistc.is-best.net
 
 Features
 
